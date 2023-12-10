@@ -1,0 +1,11 @@
+/test
+datasets/new/
+datasets/raw/
+datasets/inter-file/
+datasets/processed/
+
+model/pre_train/
+model/log/
+
+.idea
+__pycache__
